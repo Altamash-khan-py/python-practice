@@ -36,7 +36,9 @@ Currently strengthening my skills in Python and core software development princi
 
 # 🏆 Top Contributed Repo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash-khan-py&layout=compact&theme=tokyonight)
+## 🏆 Top Contributed Repository
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Altamash-khan-py&repo=python-practice&theme=tokyonight)
 
 ---
 
